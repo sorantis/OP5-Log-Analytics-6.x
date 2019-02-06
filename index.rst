@@ -21,6 +21,7 @@ op5_log_analytics_6x_doc User Guide
        02-00-00-Data_source_and_application_management/02-03-00-First_configuration_steps.md
        02-00-00-Data_source_and_application_management/02-04-00-Initial_login.md
        02-00-00-Data_source_and_application_management/02-05-00-Index_selection.md
+       02-00-00-Data_source_and_application_management/02-06-00-Changing_default_users_for_services.md
 
 .. toctree::
         :maxdepth: 2
