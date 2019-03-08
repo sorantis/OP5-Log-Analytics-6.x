@@ -1,4 +1,4 @@
-# Logstash pluging for "perflog" #
+# Logstash plugin for "perflog" #
 
 This Logstash plugin has example of complete configuration for integration with perflog:
 
